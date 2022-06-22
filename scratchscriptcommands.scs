@@ -1,0 +1,48 @@
+Start(
+    {sprite ""
+	    runorder=
+		moveamount = 
+        dir_
+		dir_turnrightdegrees = 
+		dir_turnleftdegrees = 
+        move_
+		move_gotosprite ""
+		move_gotoposition x= y=
+        move_glide_
+		move_glide_gotosprite "" secs=
+		move_glide_gotoposition x= y=
+		dir_pointto=
+		dir_pointtosprite""
+		move_changex""
+		move_setx""
+		move_changey""
+		move_sety""  
+		move_edgebounce
+		move_rotationset = 
+		variable_
+		variable_xpos
+		variable_ypos
+		variable_dir
+		saytext_say_
+		saytext_say_text="" secs=
+		saytext_say_text=""
+		saytext_think_
+		saytext_think_text="" secs=
+		saytext_think_texttext=""
+		costume ""
+		costumeswitchamount = ""
+		size_
+		size_change = 
+		size_set = 
+		effect_
+		effect_change_effect=""amount=
+		effect_set_effect=""amount=
+		effect_clear
+		effect_show
+		effect_hide
+		effect_layer_fob=
+		effect_layer_fob= layers=
+		variable_costume_choice=
+	    variable_backgound_choice=	
+		variable_size
+		forever()

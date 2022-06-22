@@ -1,0 +1,7 @@
+X=MsgBox("",0+0,"Textperson")
+X=MsgBox("Hello!",0+0,"Textperson")
+X=MsgBox("How are you doing?",0+0,"Textperson")
+X=MsgBox("Ok? Thats Great!",0+0,"Textperson")
+X=MsgBox("Ah! A enemy!",0+0,"Textperson")
+X=MsgBox("battle enter!",48+0,"sound_battle_enter.wav")
+X=MsgBox("Enemy Hp:2 Yes:Attack",64+3,"Menu")
